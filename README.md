@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Microsoft-Fabric-Complete-Guide-The-Future-of-Data-with-Fabric
 Microsoft Fabric Complete Guide – The Future of Data with Fabric, Pubished by Packt Publishing
 
